@@ -3,7 +3,7 @@ use LAB;
 
 # a.Create a table student with attributes sno,name marks and dept
 CREATE TABLE student (
-	  sno INT AUTO_INCREMENT PRIMARY KEY,
+    sno INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(50) NOT NULL,
     marks INT NOT NULL,
     dept VARCHAR(20) NOT NULL
