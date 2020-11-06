@@ -1,3 +1,5 @@
+CREATE DATABASE LAB;
+use LAB;
 
 # a.Create a table student with attributes sno,name marks and dept
 CREATE TABLE student (
